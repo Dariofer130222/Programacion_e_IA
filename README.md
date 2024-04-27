@@ -1,6 +1,5 @@
 ¡Por supuesto! Aquí tienes una versión del archivo README.md con un tono más humano:
 
-```markdown
 # ¡Bienvenidos a nuestro rincón de la Programación y la Inteligencia Artificial!
 
 ¡Hola a todos! Estamos emocionados de compartir con ustedes este espacio donde exploramos la fascinante intersección entre la programación y la inteligencia artificial. ¿Estás listo para sumergirte en este mundo emocionante? ¡Vamos a comenzar!
