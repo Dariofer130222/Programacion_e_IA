@@ -1,7 +1,7 @@
 # ¡Bienvenidos a nuestro rincón de la Programación y la Inteligencia Artificial!
 
 ¡Hola a todos! Estamos emocionados de compartir con ustedes este espacio donde exploramos la fascinante intersección entre la programación y la inteligencia artificial. ¿Estás listo para sumergirte en este mundo emocionante? ¡Vamos a comenzar!
-## Imagenes
+
 <p align="center">
 <img src="/Logos/logo.png" height="150">
 </p>
