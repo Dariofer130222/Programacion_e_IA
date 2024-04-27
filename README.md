@@ -58,7 +58,7 @@ Este repositorio es un esfuerzo colaborativo. ¡Si tienes ideas, sugerencias o c
 
 ## ¿Preguntas?
 
-Si tienes alguna pregunta o simplemente quieres charlar sobre programación o inteligencia artificial, ¡no dudes en ponerte en contacto con nosotros! Puedes encontrarnos en [correo@example.com](mailto:correo@example.com) o visitar nuestro [sitio web](https://www.example.com).
+Si tienes alguna pregunta o simplemente quieres charlar sobre programación o inteligencia artificial, ¡no dudes en ponerte en contacto con nosotros! Puedes encontrarnos en [correo@example.com](marlonnarviz123@gmail.com) o visitar nuestro [sitio web](https://www.example.com).
 
 ¡Gracias por unirte a nosotros en este emocionante viaje!
 
