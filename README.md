@@ -14,7 +14,6 @@
 
 En este repositorio, encontrarás una variedad de recursos, tutoriales, ejemplos de código y proyectos emocionantes relacionados con la programación y la inteligencia artificial. Desde conceptos básicos hasta temas más avanzados, ¡tenemos algo para todos!
 
-![Programación e IA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeusens.com%2Fes%2Fblog%2Finteligencia-artificial-usos-ejemplos-empresas&psig=AOvVaw0jdmwciUX6DoAzJpcz2iWr&ust=1714333172822000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiI6taS44UDFQAAAAAdAAAAABAJ)
 
 
 ## Explorando el Universo de la Programación
