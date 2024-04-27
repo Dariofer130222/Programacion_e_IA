@@ -57,7 +57,6 @@ La visión por computadora es una de las áreas más emocionantes de la intelige
 - [Coursera](https://www.coursera.org/)
 - [edX](https://www.edx.org/) 
 - [Kaggle](https://www.kaggle.com/)
-- [GitHub Learning Lab](https://lab.github.com/)
 - [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/)
 
 ## ¡Únete y Contribuye!
