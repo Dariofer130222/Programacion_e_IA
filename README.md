@@ -6,6 +6,10 @@
 <img src="/Logos/imagen.jpg" height="150">
 </p>
 
+<p align="center">
+<img src="/Logos/ia.jpg" height="150">
+</p>
+
 ## ¿Qué vas a encontrar aquí? 
 
 En este repositorio, encontrarás una variedad de recursos, tutoriales, ejemplos de código y proyectos emocionantes relacionados con la programación y la inteligencia artificial. Desde conceptos básicos hasta temas más avanzados, ¡tenemos algo para todos!
