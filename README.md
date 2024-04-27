@@ -1,4 +1,4 @@
-*# ¡Bienvenidos a nuestro rincón de la Programación y la Inteligencia Artificial!*
+# ¡Bienvenidos a nuestro rincón de la Programación y la Inteligencia Artificial!*
 
 ¡Hola a todos! Estamos emocionados de compartir con ustedes este espacio donde exploramos la fascinante intersección entre la programación y la inteligencia artificial. ¿Estás listo para sumergirte en este mundo emocionante? ¡Vamos a comenzar!
 
@@ -62,6 +62,7 @@ Este repositorio es un esfuerzo colaborativo. ¡Si tienes ideas, sugerencias o c
 
 Si tienes alguna pregunta o simplemente quieres charlar sobre programación o inteligencia artificial, ¡no dudes en ponerte en contacto con nosotros! Puedes encontrarnos en [marlonnarviz123@gmail.com](marlonnarviz123@gmail.com) 
 ¡Gracias por unirte a nosotros en este emocionante viaje!
+![ver video](https://www.youtube.com/watch?v=uCpE6z999Uk)
 
 ![Programación e IA](https://via.placeholder.com/800x200.png)
 ```
