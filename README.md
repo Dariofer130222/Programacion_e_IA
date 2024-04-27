@@ -6,6 +6,10 @@
 <img src="/Logos/imagen.jpg" height="150">
 </p>
 
+<p align="center">
+<img src="/Logos/ia.jpg" height="150">
+</p>
+
 
 
 ## ¿Qué vas a encontrar aquí? 
