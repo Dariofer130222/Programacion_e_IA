@@ -3,7 +3,7 @@
 ¡Hola a todos! Estamos emocionados de compartir con ustedes este espacio donde exploramos la fascinante intersección entre la programación y la inteligencia artificial. ¿Estás listo para sumergirte en este mundo emocionante? ¡Vamos a comenzar!
 
 <p align="center">
-<img src="/Logos/logo.png" height="150">
+<img src="/Logos/imagen.png" height="150">
 </p>
 
 ## ¿Qué vas a encontrar aquí? 
