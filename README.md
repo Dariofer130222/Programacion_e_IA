@@ -1,8 +1,10 @@
-¡Por supuesto! Aquí tienes una versión del archivo README.md con un tono más humano:
-
 # ¡Bienvenidos a nuestro rincón de la Programación y la Inteligencia Artificial!
 
 ¡Hola a todos! Estamos emocionados de compartir con ustedes este espacio donde exploramos la fascinante intersección entre la programación y la inteligencia artificial. ¿Estás listo para sumergirte en este mundo emocionante? ¡Vamos a comenzar!
+## Imagenes
+<p align="center">
+<img src="/Logos/logo.png" height="150">
+</p>
 
 ## ¿Qué vas a encontrar aquí?
 
@@ -58,8 +60,7 @@ Este repositorio es un esfuerzo colaborativo. ¡Si tienes ideas, sugerencias o c
 
 ## ¿Preguntas?
 
-Si tienes alguna pregunta o simplemente quieres charlar sobre programación o inteligencia artificial, ¡no dudes en ponerte en contacto con nosotros! Puedes encontrarnos en [marlonnarviz123@gmail.com](marlonnarviz123@gmail.com) o visitar nuestro [sitio web](https://www.example.com).
-
+Si tienes alguna pregunta o simplemente quieres charlar sobre programación o inteligencia artificial, ¡no dudes en ponerte en contacto con nosotros! Puedes encontrarnos en [marlonnarviz123@gmail.com](marlonnarviz123@gmail.com) 
 ¡Gracias por unirte a nosotros en este emocionante viaje!
 
 ![Programación e IA](https://via.placeholder.com/800x200.png)
