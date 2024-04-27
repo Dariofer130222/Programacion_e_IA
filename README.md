@@ -49,7 +49,7 @@ La visión por computadora es una de las áreas más emocionantes de la intelige
 ¿Quieres seguir aprendiendo? ¡Estos recursos te ayudarán a dar el siguiente paso en tu viaje de aprendizaje!
 
 - [Coursera](https://www.coursera.org/)
-- [edX](https://www.edx.org/)
+- [edX](https://www.edx.org/) 
 - [Kaggle](https://www.kaggle.com/)
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/)
